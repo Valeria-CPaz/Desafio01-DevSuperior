@@ -14,12 +14,9 @@ Study project about Java with Spring Boot, focused on componentization and depen
 
 ## 💻 How to Run
 
+- Open the project folder in your preferred Java IDE (IntelliJ IDEA, Eclipse, VSCode, etc).
+- Build and run the application using the IDE controls, or via Maven Wrapper:
 ```bash
-# Clone the repository
-git clone https://github.com/Valeria-CPaz/Desafio01-DevSuperior.git
-cd Desafio01-DevSuperior
-
-# Run with Maven Wrapper
 ./mvnw spring-boot:run
 ```
 ---
@@ -40,11 +37,8 @@ Projeto de estudo sobre Java com Spring Boot, focado em componentização e inje
 
 ## 💻 Como Rodar
 
+- Abra a pasta do projeto na sua IDE Java favorita (IntelliJ IDEA, Eclipse, VSCode etc).
+- Build e execute a aplicação pelos controles da IDE, ou pelo Maven Wrapper:
 ```bash
-# Clone o repositório
-git clone https://github.com/Valeria-CPaz/Desafio01-DevSuperior.git
-cd Desafio01-DevSuperior
-
-# Rode com Maven Wrapper
 ./mvnw spring-boot:run
 
