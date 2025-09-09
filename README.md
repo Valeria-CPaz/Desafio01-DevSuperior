@@ -1,10 +1,10 @@
-# Desafio - Componentes e Injeção de Dependência
+# (en-gb) 🌍 Challenge - Components and Dependency Injection
 
-Projeto de estudo sobre Java com Spring Boot, focado em componentização e injeção de dependências.
+Study project about Java with Spring Boot, focused on componentization and dependency injection.
 
 ---
 
-##  Tecnologias Utilizadas
+## 🛠️ Technologies Used
 
 - Java 17
 - Spring Boot
@@ -12,15 +12,33 @@ Projeto de estudo sobre Java com Spring Boot, focado em componentização e inje
 
 ---
 
-##  Estrutura do Projeto
+## 💻 How to Run
 
-- `src/main/java/...` – lógica principal do projeto
-- `pom.xml` – configuração do Maven
-- `.mvn`, `mvnw`, `.gitignore` – suporte ao build e execução com Maven Wrapper
+```bash
+# Clone the repository
+git clone https://github.com/Valeria-CPaz/Desafio01-DevSuperior.git
+cd Desafio01-DevSuperior
+
+# Run with Maven Wrapper
+./mvnw spring-boot:run
+```
+---
+---
+# (pt-br) 🌎 Desafio - Componentes e Injeção de Dependência
+
+Projeto de estudo sobre Java com Spring Boot, focado em componentização e injeção de dependências.
 
 ---
 
-##  Como Rodar
+## 🛠️ Tecnologias Utilizadas
+
+- Java 17
+- Spring Boot
+- Maven
+
+---
+
+## 💻 Como Rodar
 
 ```bash
 # Clone o repositório
@@ -29,3 +47,4 @@ cd Desafio01-DevSuperior
 
 # Rode com Maven Wrapper
 ./mvnw spring-boot:run
+
